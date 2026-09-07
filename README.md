@@ -2,6 +2,8 @@
 
 ChessCoach is a fast, client-side chess game review application and AI coach. It evaluates games using an in-browser Stockfish 16 WebAssembly engine and translates engine data into practical, memorable chess advice grounded in Jeremy Silman's imbalances framework.
 
+My attempt to build chess analysis with practical explanation using AI
+
 ---
 
 ## Features
